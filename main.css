@@ -95,3 +95,16 @@ button:hover {
     color: red;
     margin-top: 10px;
 }
+
+.progress-bar {
+    width: 80%;
+    background-color: #ddd;
+    border-radius: 5px;
+    margin: 20px auto;
+}
+
+.progress {
+    height: 20px;
+    background-color: #4CAF50;
+    border-radius: 5px;
+}
