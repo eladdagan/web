@@ -1,0 +1,22 @@
+{
+  "name": "come-to-color-and-design",
+  "version": "1.0.0",
+  "description": "A website project titled 'Come to Color and Design' in Hebrew.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step can be added here.'"
+  },
+  "keywords": [
+    "color",
+    "design",
+    "website",
+    "hebrew"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
