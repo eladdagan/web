@@ -1,8 +1,8 @@
 const users = {
-    "Elad": "2323",
-    "Yanai": "2222",
-    "Noa": "4545",
-    "Sivan": "0987"
+    "אלעד": "2323",
+    "ינאי": "2222",
+    "נועה": "4545",
+    "סיון": "0987"
 };
 
 document.getElementById('login-form').addEventListener('submit', function(event) {
