@@ -1,15 +1,14 @@
 {
-  "name": "come-to-color-and-design",
+  "name": "come-to-the-army",
   "version": "1.0.0",
-  "description": "A website project titled 'Come to Color and Design' in Hebrew.",
+  "description": "A website project titled 'Come to the Army' in Hebrew.",
   "main": "src/index.html",
   "scripts": {
     "start": "live-server src",
     "build": "echo 'Build step can be added here.'"
   },
   "keywords": [
-    "color",
-    "design",
+    "army",
     "website",
     "hebrew"
   ],
